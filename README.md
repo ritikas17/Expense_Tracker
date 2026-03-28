@@ -1,17 +1,27 @@
 💰 Personal Expense Tracker
+
 A simple command-line application to track your daily expenses, built with Python.
+
 📌 Problem Statement
+
 Managing personal finances is a common challenge, especially for students. Most budgeting apps are complex or cloud-based. This tool solves that with a lightweight, local, terminal-based tracker that requires no internet connection or account.
+
 ✨ Features
+
 Add expenses with date, category, amount, and description
 View all recorded expenses in a formatted table
 Filter expenses by category
 View a spending summary with percentage breakdown
 Data saved locally in a CSV file — persists between sessions
+
 🛠️ Requirements
+
 Python 3.6 or higher
+
 No external libraries needed — uses only the Python standard library
+
 🚀 Setup & Usage
+
 1. Clone the Repository
 ```bash
 git clone https://github.com/your-username/expense-tracker.git
